@@ -33,6 +33,14 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     message: 'fuck you'
                 });
             break;
+                
+            // !whodat    
+            case 'whodat':
+                bot.sendMessage({
+                    to: channelID,
+                    message: 'datme'
+                });
+            break;
             // Just add any case commands if you want to..
          }
      }
