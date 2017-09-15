@@ -1,0 +1,8 @@
+{
+  "name": "Hustle-Bot",
+  "version": "1.0.0",
+  "description": "Bomb Factory",
+  "main": "bot.js",
+  "author": "Dat Me",
+  "dependencies": {}
+}
